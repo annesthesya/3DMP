@@ -12,4 +12,4 @@ new dedicated folder in the 3DPD course repository, created all the necessary co
 24.4.21: Constructed the top lid arm, the link, holder and pivots for the left eye, 
 the front strip and the sub base.
 Began working on the left eye base and adaptor.
-6.5.21:
+6.5.21: Finished base and eye. Started working on eyelid.
